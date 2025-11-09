@@ -1,0 +1,17 @@
+.cart {
+    padding: 20px;
+}
+
+.cart button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #2980b9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cart button:hover {
+    background-color: #3498db;
+}
